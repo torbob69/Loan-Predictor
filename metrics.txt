@@ -1,0 +1,8 @@
+Anda berkata
+accuracy --> dari seluruh dataset berapa persen prediksi yang benar (TP dan TN)
+
+precision --> dari semua orang yang di approve, berapa persen yang benar benar layak untuk di approve
+
+recall --> dari semua orang yang secara realita layak, berapa persen yang di approve
+
+f1 --> balance antara precision dan recall
